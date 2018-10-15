@@ -9,7 +9,7 @@ function write_events(samplerate, trial_length, duration);
 %% samplerate in Hz
 %% trial_length in samples
 %% duration [seconds] of the recording
-%%
+%% Date: October 2018
 
 %% intialisation
 if nargin < 1,
